@@ -7,6 +7,8 @@ Project of chained list. Includes:
  - Element insertion
  - Element query
 
+Base Language: Javascript
+
  ## List creation
 
     Method: createList(value)
